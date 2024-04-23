@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Alejandro Gil</h1><h1 align="center">Hi 👋, I'm Alejandro Gil</h1>
+<h1 align="center">Hi 👋, I'm Alejandro Gil</h1>
 <h3 align="center">A Colombian Informatic Engineer in Development</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=agge82" alt="agge82" /></a> </p>
